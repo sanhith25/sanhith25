@@ -49,9 +49,9 @@ Transforming raw data into **actionable insights**, building **interactive dashb
 ---
 
 ## 📈 GitHub Stats
-![Sanhith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanhithPolimetla&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanhithPolimetla&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanhithPolimetla&theme=tokyonight)
+![Sanhith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanhith25&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanhith25&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanhith25&theme=tokyonight)
 
 ---
 
